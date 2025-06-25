@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/market/static/css/main.e45a8228.css",
+    "main.js": "/market/static/js/main.37e8beff.js",
+    "static/js/453.9221cb89.chunk.js": "/market/static/js/453.9221cb89.chunk.js",
+    "static/media/p2ramen.png": "/market/static/media/p2ramen.2122819b3215d70f6947.png",
+    "static/media/p3pizza.png": "/market/static/media/p3pizza.9c089d36c77d47a1e50c.png",
+    "static/media/m2ramen.png": "/market/static/media/m2ramen.ff0a3e6a83472596826d.png",
+    "static/media/p1ricecake.png": "/market/static/media/p1ricecake.4775674ce8e32d52ac99.png",
+    "static/media/m3pizza.png": "/market/static/media/m3pizza.a83d65733c205918d8b5.png",
+    "static/media/m1ricecake.png": "/market/static/media/m1ricecake.c47ae55a1c277e1493a0.png",
+    "static/media/m8applepie.png": "/market/static/media/m8applepie.20f0acf280b4020ca88d.png",
+    "static/media/m7curry.png": "/market/static/media/m7curry.13c42542d9ca844297a3.png",
+    "static/media/m9pancake.png": "/market/static/media/m9pancake.bfcb1b7a5c14f5269849.png",
+    "static/media/m6chicken.png": "/market/static/media/m6chicken.a410611ad4e0508c8eb2.png",
+    "static/media/m4tomyam.png": "/market/static/media/m4tomyam.efc9d1af56d3e78be96d.png",
+    "static/media/m5omeletrice.png": "/market/static/media/m5omeletrice.12a332c926815009b385.png",
+    "static/media/m10pasta.png": "/market/static/media/m10pasta.711ce8ddba5b2d49c24c.png",
+    "index.html": "/market/index.html",
+    "main.e45a8228.css.map": "/market/static/css/main.e45a8228.css.map",
+    "main.37e8beff.js.map": "/market/static/js/main.37e8beff.js.map",
+    "453.9221cb89.chunk.js.map": "/market/static/js/453.9221cb89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e45a8228.css",
+    "static/js/main.37e8beff.js"
+  ]
+}
